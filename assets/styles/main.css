@@ -166,6 +166,11 @@ h1 {
 .row {
   padding-bottom: 50px;
 }
+
+#programs-side {
+  position: fixed;
+}
+
 #programs-side ul {
   list-style: none;
   padding-left: 0px;
