@@ -32,11 +32,11 @@ p b { font-family: SourceSansPro; }
 #top, #middle, #bottom, { margin: 0px !important; padding: 0px !important; }
 
 nav { background: none !important; border: 0px !important; box-shadow: 0px !important;}
-#cssoc-top-collapsing ul li a 
-{ 
-    color: #646666; 
-    text-transform: uppercase; 
-    font-family: SourceSansPro-SemiBold; 
+#cssoc-top-collapsing ul li a
+{
+    color: #646666;
+    text-transform: uppercase;
+    font-family: SourceSansPro-SemiBold;
 }
 @media (max-width: 767px)
 {
@@ -51,7 +51,7 @@ nav { background: none !important; border: 0px !important; box-shadow: 0px !impo
         padding-right: 5px;
         width: auto !important;
         float: none;
-        
+
         margin: 0px !important;
         margin: 0px !important;
     }
@@ -63,7 +63,7 @@ nav { background: none !important; border: 0px !important; box-shadow: 0px !impo
 {
     .navbar .navbar-nav { display: inline-block; float: none; }
     .navbar .navbar-collapse { text-align: center; }
-    
+
     #cssoc-top-collapsing
     {
         height: 25vh;
@@ -78,7 +78,7 @@ nav { background: none !important; border: 0px !important; box-shadow: 0px !impo
         font-size: 1.2em;
         text-align: center;
 
-        margin-left: auto !important; 
+        margin-left: auto !important;
         margin-right: auto !important;
         padding-left: 20px !important;
         padding-right: 20px !important;
@@ -112,7 +112,7 @@ h1
 .team-1person
 {
     width: 100%;
-    max-width: 190px;
+    max-width: 250px;
     display: inline-table;
     margin: 1.5vw 5vw 50px 5vw;
     min-width: 150px;
@@ -121,15 +121,15 @@ h1
 {
     width: 100%;
     height: 100%;
-    
+
     border-radius: 100%;
     margin-bottom: 15px;
-    
+
     -webkit-transition: all 0.4s ease-in-out;
-	-moz-transition: all 0.4s ease-in-out;
-	-o-transition: all 0.4s ease-in-out;
-	-ms-transition: all 0.4s ease-in-out;
-	transition: all 0.4s ease-in-out;
+  	-moz-transition: all 0.4s ease-in-out;
+  	-o-transition: all 0.4s ease-in-out;
+  	-ms-transition: all 0.4s ease-in-out;
+  	transition: all 0.4s ease-in-out;
 }
 .team-1person h3
 {
