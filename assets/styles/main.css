@@ -221,3 +221,6 @@ h1 {
   width: 20vw !important;
   max-width: 150px;
 }
+.past h2, .past {
+  color: #6f6f6f;
+}
